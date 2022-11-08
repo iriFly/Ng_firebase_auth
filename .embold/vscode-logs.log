@@ -1,0 +1,49 @@
+2022-11-07 16:39:16 info: tempDirectory:c:\Users\iafanassenko\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2022-11-07 16:39:16 info: Extraction complete for source: c:\Users\iafanassenko\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\iafanassenko\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2022-11-07 16:39:16 info: Congratulations, your extension "Embold" is now active!
+2022-11-07 20:36:09 info: file:///c%3A/Windows/system32/auth-skillMeter/firebase-debug.log
+2022-11-07 20:36:09 error: SQLITE_ERROR: no such table: issues
+2022-11-07 20:39:07 info: file:///c%3A/Windows/system32/auth-skillMeter/firebase-debug.log
+2022-11-07 20:39:07 error: SQLITE_ERROR: no such table: issues
+2022-11-07 20:40:03 info: file:///c%3A/Windows/system32/auth-skillMeter/firebase-debug.log
+2022-11-07 20:40:03 error: SQLITE_ERROR: no such table: issues
+2022-11-07 20:40:36 info: file:///c%3A/Windows/system32/auth-skillMeter/firebase-debug.log
+2022-11-07 20:40:36 error: SQLITE_ERROR: no such table: issues
+2022-11-07 20:42:48 info: file:///c%3A/Windows/system32/auth-skillMeter/firebase-debug.log
+2022-11-07 20:42:48 error: SQLITE_ERROR: no such table: issues
+2022-11-07 20:56:23 info: file:///c%3A/Windows/system32/auth-skillMeter/firebase-debug.log
+2022-11-07 20:56:23 error: SQLITE_ERROR: no such table: issues
+2022-11-07 20:57:17 info: file:///c%3A/Windows/system32/auth-skillMeter/firebase-debug.log
+2022-11-07 20:57:17 error: SQLITE_ERROR: no such table: issues
+2022-11-08 10:24:19 info: file:///c%3A/Windows/system32/auth-skillMeter/.angular/cache/14.2.8/angular-webpack/d3a3d86f4a752330db537d3f831e0b02a835b6b1/0.pack_
+2022-11-08 10:24:19 info: file:///c%3A/Windows/system32/auth-skillMeter/.angular/cache/14.2.8/angular-webpack/d3a3d86f4a752330db537d3f831e0b02a835b6b1/index.pack_
+2022-11-08 10:24:19 error: SQLITE_ERROR: no such table: issues
+2022-11-08 10:24:19 error: SQLITE_ERROR: no such table: issues
+2022-11-08 10:26:09 info: file:///c%3A/Windows/system32/auth-skillMeter/.angular/cache/14.2.8/angular-webpack/d3a3d86f4a752330db537d3f831e0b02a835b6b1/0.pack_
+2022-11-08 10:26:09 info: file:///c%3A/Windows/system32/auth-skillMeter/.angular/cache/14.2.8/angular-webpack/d3a3d86f4a752330db537d3f831e0b02a835b6b1/1.pack_
+2022-11-08 10:26:09 info: file:///c%3A/Windows/system32/auth-skillMeter/.angular/cache/14.2.8/angular-webpack/d3a3d86f4a752330db537d3f831e0b02a835b6b1/2.pack_
+2022-11-08 10:26:09 info: file:///c%3A/Windows/system32/auth-skillMeter/.angular/cache/14.2.8/angular-webpack/d3a3d86f4a752330db537d3f831e0b02a835b6b1/index.pack_
+2022-11-08 10:26:09 error: SQLITE_ERROR: no such table: issues
+2022-11-08 10:26:09 error: SQLITE_ERROR: no such table: issues
+2022-11-08 10:26:09 error: SQLITE_ERROR: no such table: issues
+2022-11-08 10:26:09 error: SQLITE_ERROR: no such table: issues
+2022-11-08 10:27:55 info: file:///c%3A/Windows/system32/auth-skillMeter/.angular/cache/14.2.8/angular-webpack/d3a3d86f4a752330db537d3f831e0b02a835b6b1/1.pack_
+2022-11-08 10:27:55 info: file:///c%3A/Windows/system32/auth-skillMeter/.angular/cache/14.2.8/angular-webpack/d3a3d86f4a752330db537d3f831e0b02a835b6b1/2.pack_
+2022-11-08 10:27:55 info: file:///c%3A/Windows/system32/auth-skillMeter/.angular/cache/14.2.8/angular-webpack/d3a3d86f4a752330db537d3f831e0b02a835b6b1/3.pack_
+2022-11-08 10:27:55 info: file:///c%3A/Windows/system32/auth-skillMeter/.angular/cache/14.2.8/angular-webpack/d3a3d86f4a752330db537d3f831e0b02a835b6b1/4.pack_
+2022-11-08 10:27:55 info: file:///c%3A/Windows/system32/auth-skillMeter/.angular/cache/14.2.8/angular-webpack/d3a3d86f4a752330db537d3f831e0b02a835b6b1/index.pack_
+2022-11-08 10:27:55 error: SQLITE_ERROR: no such table: issues
+2022-11-08 10:27:55 error: SQLITE_ERROR: no such table: issues
+2022-11-08 10:27:55 error: SQLITE_ERROR: no such table: issues
+2022-11-08 10:27:55 error: SQLITE_ERROR: no such table: issues
+2022-11-08 10:27:55 error: SQLITE_ERROR: no such table: issues
+2022-11-08 10:31:43 info: file:///c%3A/Windows/system32/auth-skillMeter/.angular/cache/14.2.8/angular-webpack/d3a3d86f4a752330db537d3f831e0b02a835b6b1/3.pack_
+2022-11-08 10:31:43 info: file:///c%3A/Windows/system32/auth-skillMeter/.angular/cache/14.2.8/angular-webpack/d3a3d86f4a752330db537d3f831e0b02a835b6b1/4.pack_
+2022-11-08 10:31:43 info: file:///c%3A/Windows/system32/auth-skillMeter/.angular/cache/14.2.8/angular-webpack/d3a3d86f4a752330db537d3f831e0b02a835b6b1/5.pack_
+2022-11-08 10:31:43 info: file:///c%3A/Windows/system32/auth-skillMeter/.angular/cache/14.2.8/angular-webpack/d3a3d86f4a752330db537d3f831e0b02a835b6b1/6.pack_
+2022-11-08 10:31:43 info: file:///c%3A/Windows/system32/auth-skillMeter/.angular/cache/14.2.8/angular-webpack/d3a3d86f4a752330db537d3f831e0b02a835b6b1/index.pack_
+2022-11-08 10:31:43 error: SQLITE_ERROR: no such table: issues
+2022-11-08 10:31:43 error: SQLITE_ERROR: no such table: issues
+2022-11-08 10:31:43 error: SQLITE_ERROR: no such table: issues
+2022-11-08 10:31:43 error: SQLITE_ERROR: no such table: issues
+2022-11-08 10:31:43 error: SQLITE_ERROR: no such table: issues
