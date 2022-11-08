@@ -24,8 +24,19 @@
               <div class="col-md-6">
                 <a href="/forgot-password" class="text-dark" style="text-decoration: none;"> Forgot Password ? </a>
               </div>
-
             </div>
+
+            <div class="row mt-2">
+              <a (click)="signInWithGoogle()" style="text-decoration: none; cursor:pointer;"></a>
+              <div class="card shadow text-center">
+                <button type="button" class="btn btn-block" (click)="signInWithGoogle()">
+                  <i class="fa fa-google" aria-hidden="true"></i>
+                  Login with Google
+                </button>
+              </div>
+            </div>
+
+
           </form>
 
         </div>

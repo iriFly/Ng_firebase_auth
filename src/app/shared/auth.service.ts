@@ -2,6 +2,7 @@ import { Injectable } from '@angular/core';
 import { AngularFireAuth } from '@angular/fire/compat/auth';
 import { Router } from '@angular/router';
 import { Angular2FontawesomeModule } from 'angular2-fontawesome';
+import { GoogleAuthProvider }  from '@angular/fire/auth';
 
 @Injectable({
   providedIn: 'root'
@@ -68,6 +69,20 @@ export class AuthService {
       alert('Something went wrong. Not able to reset password with the provided email.');
     })
   }
+
+  //signing with google
+  googleSignIn() {
+    return this.fireauth.signInWithPopup(new GoogleAuthProvider).then( res => {
+
+      this.router.navigate(['/dashboard']);
+      localStorage.setItem('token', JSON.stringify(res.user?.uid))
+
+    }, err => {
+      alert('Error');
+
+    })
+  }
+
 
 
 }
