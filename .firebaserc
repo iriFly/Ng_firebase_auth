@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "auth-skillmeter": {
+      "hosting": {
+        "auth-skillMeter": [
+          "auth-skillmeter"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "auth-skillmeter"
+  }
+}

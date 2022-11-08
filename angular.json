@@ -94,8 +94,21 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {
+            "prerender": false,
+            "ssr": false,
+            "browserTarget": "auth-skillMeter:build:production",
+            "firebaseProject": "auth-skillmeter",
+            "firebaseHostingSite": "auth-skillmeter"
+          }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": false
   }
 }
